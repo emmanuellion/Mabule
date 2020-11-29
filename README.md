@@ -8,5 +8,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notextsvg.png" width="10%">
 </div>
 
-# Usefulness of each language
+# Quantity of each language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabule)
