@@ -1,8 +1,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mabule&show_icons=true&theme=monokai)
 <hr>
-<h1>TEST</h1>
+<h1>Skills</h1>
 <div>
-  <img src="https://d1fmx1rbmqrxrr.cloudfront.net/cnet/i/edit/2019/04/eso1644bsmall.jpg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-195px-HTML5_logo_and_wordmark.svg.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
 </div>
-**bite***
-tes
