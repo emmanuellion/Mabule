@@ -1,4 +1,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mabule&show_icons=true&theme=monokai)
-<hr>
+<hr height="3px">
 **bite***
 tes
