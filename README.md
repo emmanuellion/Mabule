@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mabule&show_icons=true&theme=monokai)
+![github stats](https://github-readme-stats.vercel.app/api?username=Mabule&show_icons=true&theme=monokai)
 # Skills
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-195px-HTML5_logo_and_wordmark.svg.png" width="12%">&emsp;
