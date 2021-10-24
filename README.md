@@ -1,5 +1,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Mabule&show_icons=true&theme=monokai)
-<figure><embed src="https://wakatime.com/share/@Mabule/bc1a44be-ee07-46d8-a8f0-358ff284796b.svg"></embed></figure>
+<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mabule)](https://github.com/anuraghazra/github-readme-stats)
 # Skills
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-195px-HTML5_logo_and_wordmark.svg.png" width="12%">&emsp;
