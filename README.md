@@ -1,4 +1,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Mabule&show_icons=true&theme=monokai)
+<figure><embed src="https://wakatime.com/share/@Mabule/bc1a44be-ee07-46d8-a8f0-358ff284796b.svg"></embed></figure>
 # Skills
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-195px-HTML5_logo_and_wordmark.svg.png" width="12%">&emsp;
